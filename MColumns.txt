@@ -1,0 +1,7 @@
+Ticket No.
+Movie Title
+Movie Time
+Movie Type
+Number of Seat
+Total Price
+
